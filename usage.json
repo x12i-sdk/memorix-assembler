@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-assembler",
+  "packageVersion": "1.33.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-assembler",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-assembler",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Resolve the shared identity query used when assembling content",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:23:33.742648+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "adff41ecf008a0eadcae0496ca8bb21445ca49c29a21cafcb39e61ad019d7ba5",
+    "manifestSha256": "3389c3f1cf844d4294cbd12e5d2e217c88675811ba898d35223e5856639fef9c"
+  },
+  "validationFiles": {
+    "src/index.mjs": "adff41ecf008a0eadcae0496ca8bb21445ca49c29a21cafcb39e61ad019d7ba5"
+  }
+}
